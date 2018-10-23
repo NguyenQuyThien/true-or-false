@@ -1,0 +1,48 @@
+#time{
+	/*background-color: red;*/
+	text-align: center;
+	font-size: 31px;
+	height: auto;
+	width: 100%;
+}
+#question{
+	height: auto;
+	width: 100%;
+}
+#firstNum{
+	/*background-color: green;*/
+	text-align: right;
+	font-size: 53px;
+	height: auto;
+	width: 100%;
+}
+#operator{
+	/*background-color: aqua;*/
+	text-align: left;
+	padding-left: 45%; 
+	font-size: 53px;
+}
+#secondNum{
+	/*background-color: blue;*/
+	text-decoration-style: underline;
+	text-align: right;
+	font-size: 53px;
+	height: auto;
+	width: 100%;
+}
+#keThang {
+	border-bottom: 3px solid blue;
+}
+#equal{
+	text-align: right;
+	font-size: 53px;
+}
+#answer{
+	text-align: center;
+	/*background-color: aqua;*/
+	height: auto;
+	width: 100%;
+}
+button {
+	font-size: 63px;
+}
